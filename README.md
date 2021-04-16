@@ -14,8 +14,8 @@
 
 ## MY GIT STATS
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=majjikishore007&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=majjikishore007&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
 
 ## my skills
 
-![my skills](https://github-readme-stats.vercel.app/api/top-langs/?username=majjikishore007&hide=TeX&theme=tokyonight)
+![my skills](https://github-readme-stats.vercel.app/api/top-langs/?username=majjikishore007&hide=TeX&theme=gruvbox)
