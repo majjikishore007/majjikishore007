@@ -1,3 +1,5 @@
+![d](https://visitor-badge.laobi.icu/badge?page_id=majjikishore007)
+
 ## Hi there 👋 I'm majji kishore
 
 ## a passionate learner
