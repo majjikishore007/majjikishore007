@@ -1,15 +1,15 @@
-![d](https://visitor-badge.laobi.icu/badge?page_id=majjikishore007)
+ Thanks for visiting my profile 🙏  ![d](https://visitor-badge.laobi.icu/badge?page_id=majjikishore007)
 
-## Hi there 👋 I'm majji kishore
+## 🔗 Hi there 👋 I'm majji kishore
 
-## ABOUT ME
+## 🔗 ABOUT ME 
 
-- I am currently studying at ITER
+- I am currently studying at ITER 🇮🇳
 - Full  stack web  developer👨‍💻
 - Open Source Enthusiast 🙌	
 - Love to build projects 👨‍🔧
 
-## Tech-stack comfortable with
+## 🔗 Tech-stack comfortable with
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,7 +33,7 @@ Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-
 
 
 
-## Connect with me 
+## 🔗 Connect with me 💬
 <p align="center">
     <a href="https://discordapp.com/users/kishoremajji007#0165/" target="blank"><img align="center"
             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
