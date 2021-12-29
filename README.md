@@ -1,9 +1,6 @@
  Thanks for visiting my profile 🙏  ![d](https://visitor-badge.laobi.icu/badge?page_id=majjikishore007)
 
-## 🔗 Hi there 👋 I'm majji kishore
-
-
- <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"></img>      
+## 🔗 Hi there 👋 I'm majji kishore  
 
 ## 🔗 ABOUT ME 
  
