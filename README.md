@@ -53,3 +53,4 @@ Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-
 | --------------------- | ------------------------- |
 
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=majjikishore007&theme=react-dark" />
+<a href="https://www.buymeacoffee.com/majjikishore" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
