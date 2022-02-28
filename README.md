@@ -49,7 +49,7 @@ Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-
             alt="Majjikishore1" /></a>
 </p>
 
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=majjikishore007&count_private=true&show_icons=true&include_all_commits=true&theme=react)         | <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=majjikishore007&theme=react" />              |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=majjikishore007&count_private=true&include_all_commits&show_icons=true&theme=react)         | <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=majjikishore007&theme=react" />              |
 | --------------------- | ------------------------- |
 
 <a href="https://www.buymeacoffee.com/majjikishore" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
