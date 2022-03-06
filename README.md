@@ -9,7 +9,7 @@
 - Open Source Enthusiast 🙌	
 - Love to build projects 👨‍🔧
 
-## 🔗 Tech-stack comfortable with
+## 🔗 Tech-stack I worked on 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,7 +29,10 @@ Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-
 ![Redux](https://img.shields.io/badge/Redux-FCC64?style=for-the-badge&logo=redux&logoColor=black)
 
 
-
+## 🔗 You can find my blogs here 
+ <a href="https://majjikishore007.hashnode.dev/" target="blank"><img align="center"
+            src="https://img.shields.io/badge/HashNode-7289DA?style=for-the-badge&logo=HashNode&logoColor=Blue"
+            alt="majjikishore" /></a>
 
 ## 🔗 Connect with me 💬
 <p align="center">
