@@ -1,6 +1,4 @@
- Thanks for visiting my profile 🙏  ![d](https://visitor-badge.laobi.icu/badge?page_id=majjikishore007)
-
-## 🔗 Hi there 👋 I'm majji kishore  
+## 🔗 Hi there 👋 I'm Majji kishore  
 
 ## 🔗 ABOUT ME 
  
@@ -56,3 +54,5 @@ Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-
 | --------------------- | ------------------------- |
 
 <a href="https://www.buymeacoffee.com/majjikishore" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+ 
+![d](https://visitor-badge.laobi.icu/badge?page_id=majjikishore007)
