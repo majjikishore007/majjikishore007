@@ -2,7 +2,6 @@
 
 ## 🔗 ABOUT ME 
  
-- Working as a backend-intern at Navgurukul 🇮🇳
 - Full  stack web  developer👨‍💻
 - Open Source Enthusiast 🙌	
 - Love to build projects 👨‍🔧
