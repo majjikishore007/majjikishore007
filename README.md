@@ -1,7 +1,7 @@
 ## 🔗 Hi there 👋 I'm Majji kishore  
 
-## 🔗 ABOUT ME 
- 
+## 🔗 ABOUT ME
+- Intern at Neilsoniq 
 - Full  stack web  developer👨‍💻
 - Open Source Enthusiast 🙌	
 - Love to build projects 👨‍🔧
