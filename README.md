@@ -1,7 +1,7 @@
 ## 🔗 Hi there 👋 I'm Majji kishore  
 
 ## 🔗 ABOUT ME
-- Intern at Nielseniq. 
+- Software Engineer at Nielseniq. 
 - Full  stack web  developer👨‍💻
 - Open Source Enthusiast 🙌	
 - Love to build projects 👨‍🔧
