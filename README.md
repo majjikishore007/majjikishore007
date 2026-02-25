@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Majji Kishore!
 
 ## 🚀 About Me
-- Software Engineer at NielsenIQ.
+- Software Engineer by Profession.
 - Full Stack Web Developer 👨‍💻 with a focus on Backend Development.
 - Open Source Enthusiast 🙌.
 - Love to build projects 👨‍🔧.
